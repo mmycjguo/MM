@@ -1,5 +1,5 @@
 {
-    "anytime": [
+    "anytime" : [
         "嘿，性感！",
         "我希望你的日子和你的脸一样好！",
         "你锻炼了吗？",
@@ -202,7 +202,7 @@
         "你真的很聪明",
         "你今天看起来很棒，说真的"
     ],
-    "morning": [
+    "morning" : [
         "早安，阳光！",
         "当你微笑时，谁需要咖啡？",
         "去拿他们，老虎！",
@@ -210,60 +210,60 @@
         "我喜欢早上凝固汽油弹的味道",
         "你今天来早了"
     ],
-    "afternoon": [
+    "afternoon" : [
         "大踏步前进！",
         "你正在改变！",
         "你比泡泡纸还好玩！"
     ],
-    "evening": [
+    "evening" : [
         "你今天让别人笑了，我知道",
         "你正在发挥作用",
         "这一天因你的努力而变得更好",
         "明天见！",
         "睡个好觉"
     ],
-    "snow": [
+    "snow" : [
         "雪球大战！"
     ],
-    " day_sunny ": [
+    " day_sunny " : [
         "今天是晴天",
         "这是美好的一天",
         "今天阳光明媚！",
         "真是美好的一天",
         "外面很漂亮，去玩吧！"
         ],
-    " day_cloudy ": [
+    " day_cloudy " : [
         "外面阴天，但没有肉丸子",
         "可能是阴天，但外面还是不错的！",
         "太阳现在正在躲藏"
         ],
-    "cloudy": [
+    "cloudy" : [
         ],
-    " cloudy_windy ": [
+    " cloudy_windy " : [
     ],
-    "showers": [
+    "showers" : [
         ],
-    "rain": [
+    "rain" : [
         "带上你的雨伞",
         "外面很湿，开车注意安全！",
         "外面在下雨，但你照亮了我的一天"
         ],
-    "thunderstorm": [
+    "thunderstorm" : [
         ],
-    "fog": [
+    "fog" : [
     ],
-    " night_clear ": [
+    " night_clear " : [
         《今晚天气预报: 天黑》
     ],
-    " night_cloudy ": [
+    " night_cloudy " : [
     ],
-    " night_showers ": [
+    " night_showers " : [
     ],
-    "night_rain": [
+    "night_rain" : [
     ],
-    " night_thunderstorm ": [
+    " night_thunderstorm " : [
         "这是一个暴风雨的夜晚，不要害怕"
     ],
-    " night_alt_cloudy_windy ": [
+    " night_alt_cloudy_windy " : [
     ]    
 }
